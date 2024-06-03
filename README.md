@@ -1,5 +1,5 @@
-## FairMC -- fair Markov Chain rank aggregation methods
-Welcome to the code for our paper, *FairMC -- fair Markov Chain rank aggregation methods*, published at **DaWaK 2024**. We encourage you to read the [full paper](https://arxiv.org/).
+## FairMC - fair Markov Chain rank aggregation methods
+Welcome to the code for our paper, *FairMC - fair Markov Chain rank aggregation methods*, published at **DaWaK 2024**. We encourage you to read the [full paper](https://arxiv.org/).
 
 ### Citation
 If you found this work useful, please cite our paper:
