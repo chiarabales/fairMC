@@ -9,7 +9,7 @@ If you found this work useful, please cite our paper:
   author    = {Chiara Balestra  and
                Antonio Ferrara and
                Emmanuel M\"uller},
-  title     = {{FairMC -- fair Markov Chain rank aggregation methods},
+  title     = {FairMC -- fair Markov Chain rank aggregation methods},
   booktitle = {DaWaK},
   publisher = {Springer},
   year      = {2024}
